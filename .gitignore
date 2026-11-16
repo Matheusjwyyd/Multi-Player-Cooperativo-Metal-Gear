@@ -4,5 +4,7 @@
 # Saídas de build do .NET
 **/bin/
 **/obj/
+!/PHANTOM_BROTHERS/Server/bin/
+!/PHANTOM_BROTHERS/Server/obj/
 *.user
 *.suo
