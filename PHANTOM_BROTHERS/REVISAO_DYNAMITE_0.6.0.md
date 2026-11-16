@@ -27,6 +27,8 @@ Esta cópia tem a tabela `mgsvtpp_addresses_1_0_15_3_en.h` e offsets associados 
 
 Existe uma portagem comunitária separada com tabelas para 1.0.15.4. O commit [`42806d1`](https://github.com/slimy-bro/dynamite-vibecoded/commit/42806d1f1a182763b8809bccf3cbca37a8045e51) declara 196 de 202 funções encontradas e todas as 25 patches, mas o próprio documento de portagem ainda lista o teste com dois jogadores como pendente; ele também registra que scripts de missão precisam ser comparados e que o checksum original de `00.dat` é desconhecido. É uma referência experimental, não uma build confirmada para instalar e jogar.
 
+Na consulta atual, o README da branch padrão dessa portagem ainda manda reverter o jogo para a versão anterior. O commit de compatibilidade 1.0.15.4 não equivale a uma versão publicada e testada do mod.
+
 Como referência, o projeto demonstra uma rota nativa de campanha: usa sessão FOB/Steam P2P, reserva uma segunda instância de jogador via definição FOX, altera scripts de missões e usa hooks nativos. Isso ajuda a orientar o Phantom Brothers; o servidor WebSocket do Phantom Brothers não substitui essa integração dentro do jogo.
 
 O Dynamite é licenciado sob GPLv3 com Commons Clause, conforme o [LICENSE do tag v0.6.0](https://github.com/unknown321/dynamite/blob/v0.6.0/LICENSE). Não copie arquivos ou código diretamente para o Phantom Brothers sem decidir como cumprir essa licença e registrar os avisos correspondentes. Esta revisão não incorpora código do Dynamite.
