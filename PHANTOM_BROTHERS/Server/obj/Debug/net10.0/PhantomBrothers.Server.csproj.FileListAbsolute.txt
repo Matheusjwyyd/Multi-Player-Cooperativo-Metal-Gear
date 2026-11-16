@@ -24,3 +24,4 @@ C:\Users\mathe\Documents\Progetos\Multi Player Cooperativo Metal Gear\PHANTOM_BR
 C:\Users\mathe\Documents\Progetos\Multi Player Cooperativo Metal Gear\PHANTOM_BROTHERS\Server\obj\Debug\net10.0\PhantomBrothers.Server.pdb
 C:\Users\mathe\Documents\Progetos\Multi Player Cooperativo Metal Gear\PHANTOM_BROTHERS\Server\obj\Debug\net10.0\PhantomBrothers.Server.genruntimeconfig.cache
 C:\Users\mathe\Documents\Progetos\Multi Player Cooperativo Metal Gear\PHANTOM_BROTHERS\Server\obj\Debug\net10.0\ref\PhantomBrothers.Server.dll
+C:\Users\mathe\Documents\Progetos\Multi Player Cooperativo Metal Gear\PHANTOM_BROTHERS\Server\obj\Debug\net10.0\PhantomBrothers.Server.sourcelink.json
