@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhantomBrothers.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ea6e9553e200abc5ca0f125998f61a3eab829f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f5861b1707880c1f7091d22433c2db2c2276c4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhantomBrothers.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhantomBrothers.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
