@@ -1,0 +1,8 @@
+# Instalação local e arquivos proprietários do MGSV
+/MGS_TPP/
+
+# Saídas de build do .NET
+**/bin/
+**/obj/
+*.user
+*.suo
